@@ -28,7 +28,7 @@ sh scripts/brew-apps.sh
 or 
 
 ```
-curl -L https://raw.githubusercontent.com/PaulLandaeta/dev-setup/master/scripts/homebrew-install.sh | sh
+curl -L https://raw.githubusercontent.com/PaulLandaeta/dev-setup/master/scripts/brew-apps.sh | sh
 ```
 
 ## Install brew Cask apps.
@@ -41,7 +41,7 @@ sh scripts/brew-cask-apps.sh
 or 
 
 ```
-curl -L https://raw.githubusercontent.com/PaulLandaeta/dev-setup/master/scripts/homebrew-install.sh | sh
+curl -L https://raw.githubusercontent.com/PaulLandaeta/dev-setup/master/scripts/brew-cask-apps.sh | sh
 ```
 
 

@@ -17,7 +17,7 @@ sh scripts/homebrew-install.sh
 or 
 
 ```
-curl -L https://raw.githubusercontent.com/PaulLandaeta/dev-setup/master/scripts/homebrew-install.sh | sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ``` 
 ## Install brew apps.
 
